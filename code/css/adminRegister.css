@@ -1,0 +1,149 @@
+/* CSS Reset */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* CSS For Body */
+body {
+    font-size: 16px;
+    color: #fff;
+    background: linear-gradient(to right, #d16ba5 0%, #7668a5 90%);
+}
+
+/*CSS for the registration form box*/
+.form-box {
+    background: linear-gradient(to top, #33ccff 0%, #9999ff 100%);
+    margin: auto auto;
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0 0 10px #000;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 500px;
+    height: 550px;
+} 
+
+/*CSS for the header: Register Admin*/
+.form-box .header-text {
+    font-size: 32px;
+    font-weight: 600;
+    padding-bottom: 30px;
+    text-align: center;
+    text-shadow: 2px 2px plum;
+    font-family: 'Mochiy Pop One', sans-serif;
+    color: black;
+} 
+
+/*css for the placeholder*/
+::placeholder {
+    font-family: 'Mochiy Pop One', sans-serif;
+    font-size: 15px;
+}
+
+/*CSS for the input fields of the form*/
+.form-box input {
+    margin: 10px 0px;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    width: 100%;
+    font-size: 15px;
+    font-family: poppins;
+} 
+
+.form-box input[type="text"]{
+    font-family: 'Mochiy Pop One', sans-serif;
+}
+
+.form-box input[type="email"]{
+    font-family: 'Mochiy Pop One', sans-serif;
+}
+
+/*CSS for Register button*/
+.form-box button {
+    color: #fff;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+    padding: 10px;
+    margin: 20px 0px;
+    background: #d24dff;
+    font-family: 'Mochiy Pop One', sans-serif;
+    margin-top: 50px;
+} 
+
+.form-box button:hover {
+    background-color: darkmagenta;
+}
+
+/*CSS for the drop-down list in security question*/
+.form-box select {
+    font-family: 'Mochiy Pop One', sans-serif;
+    margin: 10px 0px;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    width: 100%;
+    font-size: 15px;
+}
+
+.form-box select option{
+    margin: 10px 0px;
+    padding: 10px;
+    border-radius: 5px;
+    width: 100%;
+    font-size: 14px;
+    font-family: 'Mochiy Pop One', sans-serif;
+}
+
+/* CSS for logo */
+.left img{
+    width: 170px;
+}
+
+/* CSS For Footer */
+.inner-right{
+    position:fixed;
+    bottom:0;
+    left: 0%;
+    margin-top: auto;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    background-color: black;
+    width:100%;
+}
+
+.inner-right a{
+    text-decoration: none;
+    color: black;
+}
+
+.inner-right p {
+    font-family: 'Acme', san-serif;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: large;
+    font-weight: bold;
+}
+
+/* CSS For Validation */
+#error {  
+    color : #e63900;
+    text-shadow: 3px 2px white;
+    font-family: 'Mochiy Pop One', sans-serif;
+    font-size: 25px;
+    text-align: center;
+    font-weight: bold;
+    padding: 40px;
+    margin-top: 50px;
+    margin-bottom: 60px;
+    padding-bottom: 100px;
+}
