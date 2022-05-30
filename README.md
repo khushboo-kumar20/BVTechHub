@@ -5,7 +5,7 @@ BVTechHub is a web-based application which focuses on the dire need of a platfor
 
 ![image](https://user-images.githubusercontent.com/93242916/170872173-203b8758-b0a2-4e82-876f-26e81660278e.png)
 
-This is the Landing page of BVTechHub which contains information about the website along with the contact us details and an option to login to the website either as an admin or a student depending upon who is the user of the website.
+This is the Landing page of BVTechHub which contains information about the website along with the contact us details and has an option to login to the website either as an admin or a student depending upon who is the user of the website.
 
 ## Login Page
 
@@ -17,39 +17,39 @@ This is the Landing page of BVTechHub which contains information about the websi
 
 ![image](https://user-images.githubusercontent.com/93242916/170872613-0b2ab7eb-205c-4242-8bde-ddc2aa1dafa0.png)
 
-These are the login pages for the student and the admin. The student and the admin needs to enter valid login credentials which is the email id and password to successfully login to the website.
+These are the login pages for the student and the admin. The student and the admin needs to enter valid login credentials which is their email id and password to successfully login to the website.
 
 ## Forgot Password Page
 
 ![image](https://user-images.githubusercontent.com/93242916/170873402-1760a99b-036a-4b98-89d3-1bfaa6f0eb43.png)
 
-In case the student or admin forgets their password, they can login to the website through forgot password page where they are required to enter emailid, security question and security answer.
+In case the student or the admin forgets their password, they can login to the website through forgot password page where they are required to enter their emailid, security question and security answer.
 
 ## Home Page
 
 ![image](https://user-images.githubusercontent.com/93242916/170874216-5f1dd2f3-f0b8-4a6b-ae2b-b9bc14f4908d.png)
 
-This is the Home page of BVTechHub where the student and admin can view various pages and perform activities as per their authority.
+This is the Home page of BVTechHub where the student and the admin can view various pages and perform various activities as per their authority.
 
 ## Internship and Placement Interview Experience Page
 
-Below are the Internship Interview Experience and Placement Interview Experience landing page with cards of various companies.
+- **Below are the Internship Interview Experience and Placement Interview Experience landing page which has cards of various companies.**
 
 ![image](https://user-images.githubusercontent.com/93242916/170874608-654c5406-2a0e-49fa-8e12-2160ab461a66.png)
 
 ![image](https://user-images.githubusercontent.com/93242916/170874666-ee5c8909-e686-43e3-9e77-1038868b6422.png)
 
-On clicking these company cards on the landing page one can see the list of students who had applied for some role in that comapny.
+- **On clicking these company cards on the Interview/Placement Experience landing page one can see the list of students who had applied for some role in that comapny.**
 
 ![image](https://user-images.githubusercontent.com/93242916/170875188-b7160757-4954-4988-b8ac-e2cc928e6564.png)
 
-On clicking the Read More link one can read the interview experience of that student.
+- **On clicking the Read More link one can read the interview experience of that student.**
 
 ![image](https://user-images.githubusercontent.com/93242916/170875210-dcff7f0b-0e8f-4d7b-8ad9-2c20cd860e4d.png)
 
 - **Add Experience Page For Student**
 
-If the student wants to add their Internship/Placement interview experience they can click the Add Experience button present on the Internship/Placement landing page and fill the add experience form.
+If the student wants to add their Internship/Placement interview experience they can click the Add Experience button present on the Internship/Placement Experience landing page to access the add experience form.
 
 ![image](https://user-images.githubusercontent.com/93242916/170875437-0820fb95-86f3-4f1c-a145-4eb63d908c5c.png)
 
@@ -57,25 +57,27 @@ If the student wants to add their Internship/Placement interview experience they
 
 - **Delete Experience Page For Admin**
 
-The admin has the authority to delete the irrelevant Internship/Placement interview experiences from the website.
+The admin has the authority to delete the irrelevant Internship/Placement interview experiences from the website also if in case the student does some mistake while adding their experience they can contact the admin to get their experience deleted.
 
 ![image](https://user-images.githubusercontent.com/93242916/170875900-57c8cc0c-5383-4dc0-b944-e6b1dd17e02d.png)
 
-## Suggestions Page
+## Suggestion Pages
 
-The suggestions tab on the navigation bar gives the option to open the pages- Seminar, Project and Resume-building. The student/admin can view any of these three pages.
+The website BVTechHub contains suggestion pages on Seminar, Project and Resume Building. These suggestion pages would help the students to get suggestions or ideas on seminar topics, project making and resume building.
 
 ![image](https://user-images.githubusercontent.com/93242916/170876370-1efda30c-65ee-418d-b6cd-ddbf37e7af96.png)
 
 ## Roadmaps Page
 
-The roadmaps tab on the navigation bar gives an option to open either of the pages- Data Structures & Algorithms , Web development, AI/ML and Android development roadmaps. The further selection allows the student/admin to view the content of these pages.
+The roadmaps section of the website BVTechHub contains Roadmaps on the topics - Data Structures & Algorithms , Web development, AI/ML and Android development. These roadmaps would help the students while they start their journey of learning on any of these topics.
 
 ![image](https://user-images.githubusercontent.com/93242916/170876660-aed2dc9e-da75-48c3-b2b5-d7d17672c932.png)
 
 ## Resources Page
 
 - **Resource Landing page**
+
+This is the Resources Landing page which contains cards to various subjects like Data Structures and Algorithms, Database Management System, Operating System, Computer Networks and Object Oriented Programming.
 
 ![image](https://user-images.githubusercontent.com/93242916/170877000-4351a7b4-7f39-42e4-b309-3a49fd8bc824.png)
 
@@ -84,6 +86,8 @@ The roadmaps tab on the navigation bar gives an option to open either of the pag
 ![image](https://user-images.githubusercontent.com/93242916/170877023-a39671e2-6ec4-4056-9a88-1e08322351b1.png)
 
 - **Add resource page for student**
+
+Below is the Add Resource form for the students using which the students can add relevant resources to the website.
 
 ![image](https://user-images.githubusercontent.com/93242916/170877274-bc0df79d-eb98-4455-8d0e-6204a94bf6d7.png)
 
@@ -97,11 +101,12 @@ The admin has the authority to delete the irrelevant resources from the website.
 
 ## Motivation Page
 
-This page allows the student/admin to view motivational content.
+Below is the Motivation page which would keep the students motivated on their journey to achieve their goals.
 
 ![image](https://user-images.githubusercontent.com/93242916/170877589-630e7073-a175-4dae-9558-ece30cb1ac34.png)
 
 ## Discussion Forum
+
 This page allows the student/admin to view questions and answers in the discussion forum.
 
 ![image](https://user-images.githubusercontent.com/93242916/170877831-6ecf512f-eaf8-44b1-ba4d-6ff5b1b26c93.png)
