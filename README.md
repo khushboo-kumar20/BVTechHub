@@ -61,7 +61,7 @@ The admin has the authority to delete the irrelevant Internship/Placement interv
 
 ![image](https://user-images.githubusercontent.com/93242916/170875900-57c8cc0c-5383-4dc0-b944-e6b1dd17e02d.png)
 
-## Suggestion Pages
+## Suggestions Page
 
 The website BVTechHub contains suggestion pages on Seminar, Project and Resume Building. These suggestion pages would help the students to get suggestions or ideas on seminar topics, project making and resume building.
 
