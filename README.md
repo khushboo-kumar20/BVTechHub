@@ -107,7 +107,7 @@ Below is the Motivation page which would keep the students motivated on their jo
 
 ## Discussion Forum
 
-This page allows the student/admin to view questions and answers in the discussion forum.
+This is the Discussion Forum page which allows the student/admin to view the questions and answers in the discussion forum.
 
 ![image](https://user-images.githubusercontent.com/93242916/170877831-6ecf512f-eaf8-44b1-ba4d-6ff5b1b26c93.png)
 
@@ -115,36 +115,46 @@ This page allows the student/admin to view questions and answers in the discussi
 
 - **Add question page for the student**
 
+The students can ask questions by accessing the Add Question form.
+
 ![image](https://user-images.githubusercontent.com/93242916/170877872-78fa183b-26b6-432c-9253-dde15512255e.png)
 
 ![image](https://user-images.githubusercontent.com/93242916/170878137-273d03b1-98b0-469e-b5f5-263b9a04a380.png)
 
 - **Add answer page for the student**
 
+The students can answer any of the question they want but only once. This can be done by accessing the Add Answer form. 
+
 ![image](https://user-images.githubusercontent.com/93242916/170878215-6339e87f-2ab0-479e-b251-2a1023e93256.png)
 
 ![image](https://user-images.githubusercontent.com/93242916/170878366-1ae8eb91-2c90-453b-9a5d-621a27dbb7b6.png)
 
 ## Profile Page
-Through profile page student/admin can manage their profile where they have the authority to change their password as well as security
+The student/admin can view and manage their profile where they have the authority to change their password as well as security
 question and answer.
 
 ![image](https://user-images.githubusercontent.com/93242916/170878454-565c5dd6-4277-4a0f-9c89-a1ea17e1d57a.png)
 
 - **Change Password Page**
 
+This form helps the student/admin to change their password.
+
 ![image](https://user-images.githubusercontent.com/93242916/170878545-1c7867a3-1626-4b8a-922a-f14ec1932077.png)
 
 - **Change Security Question and Answer Page**
 
+This form helps the student/admin to change the security question and answer.
+
 ![image](https://user-images.githubusercontent.com/93242916/170878577-188e2c1b-e986-45ee-8231-b0f0e5fdd35d.png)
 
 ## Change Student Password
-The admin can update the password of the student if requested.
+
+The admin has the authority to update the student password if requested.
 
 ![image](https://user-images.githubusercontent.com/93242916/170878761-47ade9c9-dfb1-4d08-b1c3-9f077a490ea9.png)
 
 ## Register New Admin
+
 The admin can register a new admin.
 
 ![image](https://user-images.githubusercontent.com/93242916/170878675-5450a310-d448-487c-867e-9420beaa4b5e.png)
