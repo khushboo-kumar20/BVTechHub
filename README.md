@@ -1,5 +1,5 @@
 # BVTechHub
-BVTechHub is a web-based application which focuses on the dire need of a platform to get roadmaps, resources, suggestions on seminar, projects, resume building and learn from the internship and placement experience of the seniors which would help one to reach their goal with much more determination and better guidance.
+BVTechHub is a web-based application which aims to provide a platform to the B.Tech students of Banasthali Vidyapith where they can get roadmaps for DSA, Web Devlopment, AI/ML and Android Development; suggestions related to seminar, projects and resume building; resources for core subjects like DSA, DBMS, OS, Computer Networks and OOP; discussion forum where the students can ask their queries, answer other students queries; read Internship/Placement Interview Experiences available on the website which would help one in their internship and placement drives.
 
 ## Landing Page
 
@@ -11,17 +11,17 @@ This is the Landing page of BVTechHub which contains information about the websi
 
 - **Student Login**
 
-![image](https://user-images.githubusercontent.com/93242916/170872581-481a337b-056b-484d-b42d-1472923505f2.png)
+![image](https://user-images.githubusercontent.com/93242916/170998573-a7773ea8-9250-4f10-84fa-868734a38cc7.png)
 
 - **Admin Login**
 
-![image](https://user-images.githubusercontent.com/93242916/170872613-0b2ab7eb-205c-4242-8bde-ddc2aa1dafa0.png)
+![image](https://user-images.githubusercontent.com/93242916/170998436-42614d7b-3ed0-4898-a1c4-7d013c031a62.png)
 
 These are the login pages for the student and the admin. The student and the admin needs to enter valid login credentials which is their email id and password to successfully login to the website.
 
 ## Forgot Password Page
 
-![image](https://user-images.githubusercontent.com/93242916/170873402-1760a99b-036a-4b98-89d3-1bfaa6f0eb43.png)
+![image](https://user-images.githubusercontent.com/93242916/170998628-467b5e26-1c74-4081-a262-4d902fb9982f.png)
 
 In case the student or the admin forgets their password, they can login to the website through forgot password page where they are required to enter their emailid, security question and security answer.
 
@@ -57,19 +57,19 @@ If the student wants to add their Internship/Placement interview experience they
 
 - **Delete Experience Page For Admin**
 
-The admin has the authority to delete the irrelevant Internship/Placement interview experiences from the website also if in case the student does some mistake while adding their experience they can contact the admin to get their experience deleted.
+The admin has the authority to delete the irrelevant Internship/Placement interview experiences from the website.
 
 ![image](https://user-images.githubusercontent.com/93242916/170875900-57c8cc0c-5383-4dc0-b944-e6b1dd17e02d.png)
 
 ## Suggestions Page
 
-The website BVTechHub contains suggestion pages on Seminar, Project and Resume Building. These suggestion pages would help the students to get suggestions or ideas on seminar topics, project making and resume building.
+The website BVTechHub contains suggestion pages on Seminar, Projects and Resume Building. These suggestion pages would help the students to get suggestions or ideas related to seminar topics, projects and resume building.
 
 ![image](https://user-images.githubusercontent.com/93242916/170876370-1efda30c-65ee-418d-b6cd-ddbf37e7af96.png)
 
 ## Roadmaps Page
 
-The roadmaps section of the website BVTechHub contains Roadmaps on the topics - Data Structures & Algorithms , Web development, AI/ML and Android development. These roadmaps would help the students while they start their journey of learning on any of these topics.
+The roadmaps section of the website BVTechHub contains Roadmaps for the topics - Data Structures & Algorithms , Web development, AI/ML and Android development. These roadmaps would help the students when they want to know how to start their journey with any of these topics.
 
 ![image](https://user-images.githubusercontent.com/93242916/170876660-aed2dc9e-da75-48c3-b2b5-d7d17672c932.png)
 
@@ -87,13 +87,15 @@ This is the Resources Landing page which contains cards to various subjects like
 
 - **Add resource page for student**
 
-Below is the Add Resource form for the students using which the students can add relevant resources to the website.
+Below is the Add Resource form using which the students can add relevant resources to the website. To access this Add Resources form the students will click the Add Resources button present on resources landing page which would direct them to the Add Resources page.
+
+![image](https://user-images.githubusercontent.com/93242916/170992888-10bdc525-2740-4264-9bc5-a7467d570117.png)
 
 ![image](https://user-images.githubusercontent.com/93242916/170877274-bc0df79d-eb98-4455-8d0e-6204a94bf6d7.png)
 
 - **Delete resources page for admin**
 
-The admin has the authority to delete the irrelevant resources from the website.
+The admin has the authority to delete the irrelevant resources from the website. By clicking the Delete Resources button on resources landing page the admin would be directed to delete resources page where the admin can now delete the irrelevant resources.
 
 ![image](https://user-images.githubusercontent.com/93242916/170877455-9da4a66b-883e-43fc-873d-16bdce23e17f.png)
 
@@ -107,15 +109,17 @@ Below is the Motivation page which would keep the students motivated on their jo
 
 ## Discussion Forum
 
-This is the Discussion Forum page which allows the student/admin to view the questions and answers in the discussion forum.
+This is the Discussion Forum landing page which allows the student/admin to view the questions and answers in the discussion forum.
 
 ![image](https://user-images.githubusercontent.com/93242916/170877831-6ecf512f-eaf8-44b1-ba4d-6ff5b1b26c93.png)
+
+This is the View Answers page where we can see all the answers added by the students for a question.
 
 ![image](https://user-images.githubusercontent.com/93242916/170877847-9d1ab762-6c63-4aa4-92d0-f516a995c5ce.png)
 
 - **Add question page for the student**
 
-The students can ask questions by accessing the Add Question form.
+The students can ask questions by accessing the Add Question form which will be available on clicking the Add Question button present on discussion forum landing page.
 
 ![image](https://user-images.githubusercontent.com/93242916/170877872-78fa183b-26b6-432c-9253-dde15512255e.png)
 
@@ -123,7 +127,7 @@ The students can ask questions by accessing the Add Question form.
 
 - **Add answer page for the student**
 
-The students can answer any of the question they want but only once. This can be done by accessing the Add Answer form. 
+The students can answer any of the question they want but only once. This can be done by accessing the Add Answer form which will be available on clicking the Add Answer button present on view answers page. 
 
 ![image](https://user-images.githubusercontent.com/93242916/170878215-6339e87f-2ab0-479e-b251-2a1023e93256.png)
 
@@ -134,6 +138,8 @@ The student/admin can view and manage their profile where they have the authorit
 question and answer.
 
 ![image](https://user-images.githubusercontent.com/93242916/170878454-565c5dd6-4277-4a0f-9c89-a1ea17e1d57a.png)
+
+![image](https://user-images.githubusercontent.com/93242916/170998888-13bedc47-143c-45b7-a209-7f23cff58d40.png)
 
 - **Change Password Page**
 
